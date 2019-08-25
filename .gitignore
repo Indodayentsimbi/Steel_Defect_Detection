@@ -1,2 +1,5 @@
 data
 env
+.vscode
+.ipynb_checkpoints
+report
